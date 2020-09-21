@@ -10,11 +10,11 @@ function init() {
         .add(new ymaps.Placemark([59.76569012784967,29.686897945830278], {
         // Номер клиента в таблице: 95
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "https://ecocomplect.shop/karta_zavershennih_obektov/" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_d100d_103" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Фахверковая надстройка в стиле шале</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: '<img src="http://images.vfl.ru/ii/1592408856/1c6657d5/30834177.jpg" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 107 м² в Санкт-Петербурге"> <br/> ' +           
-        '<b><a href = "https://ecocomplect.shop/karta_zavershennih_obektov/" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_d100d_103" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -94,11 +94,11 @@ function init() {
         .add(new ymaps.Placemark([55.516669208423735,36.74659587722304], {
         // Номер клиента в таблице: 130
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: '<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -430,11 +430,11 @@ function init() {
         .add(new ymaps.Placemark([56.11826765854447,38.464839362393825], {
         // Номер клиента в таблице: 117
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: '<img src="http://images.vfl.ru/ii/1592409366/440522a2/30834291.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -1074,11 +1074,11 @@ function init() {
         .add(new ymaps.Placemark([60.25052188324658,30.51089418634013], {
         // Номер клиента в таблице: 172 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "https://ecocomplect.shop/karta_zavershennih_obektov/" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_d100d_103" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Фахверковая надстройка в стиле шале</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 107 м² в Санкт-Петербурге"> <br/> ' +           
-        '<b><a href = "https://ecocomplect.shop/karta_zavershennih_obektov/" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_d100d_103" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -1102,11 +1102,11 @@ function init() {
         .add(new ymaps.Placemark([56.180859648069145,37.73412308030851], {
         // Номер клиента в таблице: 116 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "https://ecocomplect.shop/karta_zavershennih_obektov/" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_d100d_103" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Москве</a><br>' +
         '<span class="description">Фахверковая надстройка в стиле шале</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 107 м² в Москве"> <br/> ' +           
-        '<b><a href = "https://ecocomplect.shop/karta_zavershennih_obektov/" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_d100d_103" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -1466,11 +1466,11 @@ function init() {
         .add(new ymaps.Placemark([55.97891482658088,37.992519128906245], {
         // Номер клиента в таблице: 300 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "https://ecocomplect.shop/karta_zavershennih_obektov/" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_d100d_103" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Москве</a><br>' +
         '<span class="description">Фахверковая надстройка в стиле шале</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 107 м² в Москве"> <br/> ' +           
-        '<b><a href = "https://ecocomplect.shop/karta_zavershennih_obektov/" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_d100d_103" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -3930,11 +3930,11 @@ function init() {
         .add(new ymaps.Placemark([55.3658175661,37.04220174609374], {
         // Номер клиента в таблице: 312 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -3958,11 +3958,11 @@ function init() {
         .add(new ymaps.Placemark([55.3658175661,37.04220174609374], {
         // Номер клиента в таблице: 305 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Ижевске</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Ижевске</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Ижевске"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -3986,11 +3986,11 @@ function init() {
         .add(new ymaps.Placemark([55.359559565190516,37.51736043749998], {
         // Номер клиента в таблице: 303 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4014,11 +4014,11 @@ function init() {
         .add(new ymaps.Placemark([54.1626390680451,37.67684365917969], {
         // Номер клиента в таблице: 296 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Туле</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Туле</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Туле"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4042,11 +4042,11 @@ function init() {
         .add(new ymaps.Placemark([55.78748734328149,38.393520105468724], {
         // Номер клиента в таблице: 294 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4070,11 +4070,11 @@ function init() {
         .add(new ymaps.Placemark([55.88023192794727,37.86068319140623], {
         // Номер клиента в таблице: 278 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4098,11 +4098,11 @@ function init() {
         .add(new ymaps.Placemark([56.13714419306051,40.531859635742165], {
         // Номер клиента в таблице: 277 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Владимире</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Владимире</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Владимире"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4126,11 +4126,11 @@ function init() {
         .add(new ymaps.Placemark([56.11726104241869,37.54482625781248], {
         // Номер клиента в таблице: 270 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4154,11 +4154,11 @@ function init() {
         .add(new ymaps.Placemark([56.96695368270938,60.46149531640615], {
         // Номер клиента в таблице: 265 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Екатеринбурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Екатеринбурге</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Екатеринбурге"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4182,11 +4182,11 @@ function init() {
         .add(new ymaps.Placemark([55.618432473349046,37.60799764453123], {
         // Номер клиента в таблице: 261 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4210,11 +4210,11 @@ function init() {
         .add(new ymaps.Placemark([55.48297118834893,37.20150350390624], {
         // Номер клиента в таблице: 259 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4238,11 +4238,11 @@ function init() {
         .add(new ymaps.Placemark([60.233734629895686,29.80776815234364], {
         // Номер клиента в таблице: 257 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Санкт-Петербурге"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4266,11 +4266,11 @@ function init() {
         .add(new ymaps.Placemark([55.501683386258094,37.382777917968745], {
         // Номер клиента в таблице: 253 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4294,11 +4294,11 @@ function init() {
         .add(new ymaps.Placemark([59.84559913254832,30.721006677734277], {
         // Номер клиента в таблице: 248 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Санкт-Петербурге"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4322,11 +4322,11 @@ function init() {
         .add(new ymaps.Placemark([59.61519745615961,30.43436015124062], {
         // Номер клиента в таблице: 244 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Санкт-Петербурге"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4350,11 +4350,11 @@ function init() {
         .add(new ymaps.Placemark([55.9773748467428,36.586269128906245], {
         // Номер клиента в таблице: 239 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4378,11 +4378,11 @@ function init() {
         .add(new ymaps.Placemark([53.42553530761836,49.59251224506258], {
         // Номер клиента в таблице: 234 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Самаре</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Самаре</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Самаре"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4406,11 +4406,11 @@ function init() {
         .add(new ymaps.Placemark([52.55631850485642,39.69923432617183], {
         // Номер клиента в таблице: 233 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Липецке</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Липецке</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Липецке"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4434,11 +4434,11 @@ function init() {
         .add(new ymaps.Placemark([56.166514650545714,38.278676339702365], {
         // Номер клиента в таблице: 232 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4462,11 +4462,11 @@ function init() {
         .add(new ymaps.Placemark([56.207868158665434,37.21300251157737], {
         // Номер клиента в таблице: 231 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4490,11 +4490,11 @@ function init() {
         .add(new ymaps.Placemark([59.75287298735027,30.035734460937398], {
         // Номер клиента в таблице: 225 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Санкт-Петербурге"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4518,11 +4518,11 @@ function init() {
         .add(new ymaps.Placemark([56.04815021325498,36.70711873828123], {
         // Номер клиента в таблице: 222 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4546,11 +4546,11 @@ function init() {
         .add(new ymaps.Placemark([45.19207161252583,39.09871761494908], {
         // Номер клиента в таблице: 219 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Краснодаре</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Краснодаре</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Краснодаре"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4574,11 +4574,11 @@ function init() {
         .add(new ymaps.Placemark([56.17399228030262,37.803004968749995], {
         // Номер клиента в таблице: 218 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4602,11 +4602,11 @@ function init() {
         .add(new ymaps.Placemark([54.153177419275735,37.67026453204326], {
         // Номер клиента в таблице: 217 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Туле</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Туле</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Туле"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4630,11 +4630,11 @@ function init() {
         .add(new ymaps.Placemark([55.775104611378026,37.77553914843749], {
         // Номер клиента в таблице: 210 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Туле</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Туле</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Туле"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4658,11 +4658,11 @@ function init() {
         .add(new ymaps.Placemark([52.20861940590744,104.19032949414063], {
         // Номер клиента в таблице: 200 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Иркутске</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Иркутске</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Иркутске"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4686,11 +4686,11 @@ function init() {
         .add(new ymaps.Placemark([59.45337137331103,24.844034908203092], {
         // Номер клиента в таблице: 193 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Таллине</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Таллине</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Таллине"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4714,11 +4714,11 @@ function init() {
         .add(new ymaps.Placemark([55.309459774890534,38.127101648437474], {
         // Номер клиента в таблице: 190 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4742,11 +4742,11 @@ function init() {
         .add(new ymaps.Placemark([55.511036137620515,37.66567586718749], {
         // Номер клиента в таблице: 171 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4770,11 +4770,11 @@ function init() {
         .add(new ymaps.Placemark([55.13291078021833,61.57777843261717], {
         // Номер клиента в таблице: 164 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Челябинске</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Челябинске</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Челябинске"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4798,11 +4798,11 @@ function init() {
         .add(new ymaps.Placemark([56.17705643861512,37.37453817187498], {
         // Номер клиента в таблице: 163 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4826,11 +4826,11 @@ function init() {
         .add(new ymaps.Placemark([56.34368196754805,37.83871053515624], {
         // Номер клиента в таблице: 155 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4854,11 +4854,11 @@ function init() {
         .add(new ymaps.Placemark([45.13633424581923,38.914138988769466], {
         // Номер клиента в таблице: 144 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Краснодаре</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Краснодаре</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Краснодаре"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4882,11 +4882,11 @@ function init() {
         .add(new ymaps.Placemark([55.77974859894775,37.01473592578123], {
         // Номер клиента в таблице: 119 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4910,11 +4910,11 @@ function init() {
         .add(new ymaps.Placemark([56.092702565545444,36.660426843749974], {
         // Номер клиента в таблице: 118 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4938,11 +4938,11 @@ function init() {
         .add(new ymaps.Placemark([56.13720322173734,37.24819539843749], {
         // Номер клиента в таблице: 103 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4966,11 +4966,11 @@ function init() {
         .add(new ymaps.Placemark([45.04559799185949,39.30058727183931], {
         // Номер клиента в таблице: 101 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Краснодаре</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Краснодаре</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Краснодаре"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -4994,11 +4994,11 @@ function init() {
         .add(new ymaps.Placemark([55.921894554076665,37.35531209765624], {
         // Номер клиента в таблице: 51 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковый дом One 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Ваш идеальный гостевой дом</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592409074/92e81670/30834247.jpg" height="200" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом One 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -7178,11 +7178,11 @@ function init() {
         .add(new ymaps.Placemark([60.11743161241865,30.2829268437499], {
         // Номер клиента в таблице: 226 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "https://ecocomplect.shop/karta_zavershennih_obektov/" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_d100d_103" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Фахверковая надстройка в стиле шале</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 107 м² в Санкт-Петербурге"> <br/> ' +           
-        '<b><a href = "https://ecocomplect.shop/karta_zavershennih_obektov/" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_d100d_103" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -7374,11 +7374,11 @@ function init() {
         .add(new ymaps.Placemark([55.90184038045691,37.912868249999995], {
         // Номер клиента в таблице: 249 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковая Баня 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковая Баня 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Современный взгляд на баню</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковая Баня 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -7402,11 +7402,11 @@ function init() {
         .add(new ymaps.Placemark([55.6945204891324,37.22896932421874], {
         // Номер клиента в таблице: 214 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковая Баня 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковая Баня 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Современный взгляд на баню</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковая Баня 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -7430,11 +7430,11 @@ function init() {
         .add(new ymaps.Placemark([55.60755063024257,37.21798299609373], {
         // Номер клиента в таблице: 120 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковая Баня 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковая Баня 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Современный взгляд на баню</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковая Баня 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -7458,11 +7458,11 @@ function init() {
         .add(new ymaps.Placemark([55.57021842478566,37.51736043749998], {
         // Номер клиента в таблице: 107 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковая Баня 62 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_banya_62" target="_blank">Фахверковая Баня 62 м² <br/> в Москве</a><br>' +
         '<span class="description">Современный взгляд на баню</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковая Баня 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_banya_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -7486,11 +7486,11 @@ function init() {
         .add(new ymaps.Placemark([55.627757353747405,37.550319421874974], {
         // Номер клиента в таблице: 250 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый Гараж 62 м²<br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_garage_62" target="_blank">Фахверковый Гараж 62 м²<br/> в Москве</a><br>' +
         '<span class="description">Гараж в котором хочется жить</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый Гараж 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_garage_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -7513,11 +7513,11 @@ function init() {
         .add(new ymaps.Placemark([55.85706660345813,37.29214071093749], {
         // Номер клиента в таблице: 121 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_one_62" target="_blank">Фахверковый Гараж 62 м²<br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_garage_62" target="_blank">Фахверковый Гараж 62 м²<br/> в Москве</a><br>' +
         '<span class="description">Гараж в котором хочется жить</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый Гараж 62 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:stepform_one_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_garage_62" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -8604,11 +8604,11 @@ function init() {
         .add(new ymaps.Placemark([55.52350300184258,37.130092371093724], {
         // Номер клиента в таблице: 77 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:mini" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_mini_95" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Москве</a><br>' +
         '<span class="description">Уютный дом для молодой семьи</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592408889/13661f40/30834181.jpg" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Bergen Mini 95 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:mini" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_mini_95" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -8632,11 +8632,11 @@ function init() {
         .add(new ymaps.Placemark([56.08551230291932,38.25244194886243], {
         // Номер клиента в таблице: 76 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:mini" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_mini_95" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Москве</a><br>' +
         '<span class="description">Уютный дом для молодой семьи</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592408889/13661f40/30834181.jpg" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Bergen Mini 95 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:mini" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_mini_95" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -8660,11 +8660,11 @@ function init() {
         .add(new ymaps.Placemark([43.60266921951592,39.77091945117188], {
         // Номер клиента в таблице: 74 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:mini" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Сочи</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_mini_95" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Сочи</a><br>' +
         '<span class="description">Уютный дом для молодой семьи</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592408889/13661f40/30834181.jpg" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Bergen Mini 95 м² в Сочи"> <br/> ' +           
-        '<b><a href = "#popup:mini" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_mini_95" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -8688,11 +8688,11 @@ function init() {
         .add(new ymaps.Placemark([55.37051041466828,37.64095662890623], {
         // Номер клиента в таблице: 67 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:mini" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_mini_95" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Москве</a><br>' +
         '<span class="description">Уютный дом для молодой семьи</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592408889/13661f40/30834181.jpg" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Bergen Mini 95 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:mini" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_mini_95" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -8716,11 +8716,11 @@ function init() {
         .add(new ymaps.Placemark([45.04527548947154,34.97675562546972], {
         // Номер клиента в таблице: 65 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:mini" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Севастополе</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_mini_95" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Севастополе</a><br>' +
         '<span class="description">Уютный дом для молодой семьи</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592408889/13661f40/30834181.jpg" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Bergen Mini 95 м² в Севастополе"> <br/> ' +           
-        '<b><a href = "#popup:mini" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_mini_95" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -8744,11 +8744,11 @@ function init() {
         .add(new ymaps.Placemark([59.745361601637605,30.628151221372836], {
         // Номер клиента в таблице: 44 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:mini" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_mini_95" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Уютный дом для молодой семьи</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592408889/13661f40/30834181.jpg" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Bergen Mini 95 м² в Санкт-Петербурге"> <br/> ' +           
-        '<b><a href = "#popup:mini" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_mini_95" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -8772,11 +8772,11 @@ function init() {
         .add(new ymaps.Placemark([59.745361601637605,30.628151221372836], {
         // Номер клиента в таблице: 44 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:mini" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_mini_95" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Уютный дом для молодой семьи</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592408889/13661f40/30834181.jpg" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Bergen Mini 95 м² в Санкт-Петербурге"> <br/> ' +           
-        '<b><a href = "#popup:mini" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_mini_95" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -8800,11 +8800,11 @@ function init() {
         .add(new ymaps.Placemark([60.01761237907029,30.861020456849914], {
         // Номер клиента в таблице: 29 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:mini" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_mini_95" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Уютный дом для молодой семьи</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592408889/13661f40/30834181.jpg" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Bergen Mini 95 м² в Санкт-Петербурге"> <br/> ' +           
-        '<b><a href = "#popup:mini" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_mini_95" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -8828,11 +8828,11 @@ function init() {
         .add(new ymaps.Placemark([56.02200926887538,36.93783162890623], {
         // Номер клиента в таблице: 9 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:mini" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_mini_95" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Москве</a><br>' +
         '<span class="description">Уютный дом для молодой семьи</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592408889/13661f40/30834181.jpg" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Bergen Mini 95 м² в Москве"> <br/> ' +           
-        '<b><a href = "#popup:mini" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_mini_95" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
@@ -8856,11 +8856,11 @@ function init() {
         .add(new ymaps.Placemark([44.86925834334704,39.002372936523365], {
         // Номер клиента в таблице: 2 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:mini" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Краснодаре</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_mini_95" target="_blank">Фахверковый дом Bergen Mini 95 м²<br/> в Краснодаре</a><br>' +
         '<span class="description">Уютный дом для молодой семьи</span>',
         // Зададим содержимое основной части балуна.
         balloonContentBody: //'<img src="http://images.vfl.ru/ii/1592408889/13661f40/30834181.jpg" height="170" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Bergen Mini 95 м² в Краснодаре"> <br/> ' +           
-        '<b><a href = "#popup:mini" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
+        '<b><a href = "#popup:stepform_mini_95" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
