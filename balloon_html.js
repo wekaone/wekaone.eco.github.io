@@ -11,15 +11,15 @@ function init() {
         .add(new ymaps.Placemark([59.76569012784967,29.686897945830278], {
         // Номер клиента в таблице: 95
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_d100d_110" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_d100d_110" target="_blank">Фахверковый дом Chalet 110 м² <br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Фахверковая надстройка в стиле шале</span>',
         // Зададим содержимое основной части балуна.
-        balloonContentBody: '<img src="http://images.vfl.ru/ii/1592408856/1c6657d5/30834177.jpg" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 107 м² в Санкт-Петербурге"> <br/> ' +           
+        balloonContentBody: '<img src="http://images.vfl.ru/ii/1592408856/1c6657d5/30834177.jpg" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 110 м² в Санкт-Петербурге"> <br/> ' +           
         '<b><a href = "#popup:stepform_d100d_110" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
-        hintContent: 'Chalet 107 м²'
+        hintContent: 'Chalet 110 м²'
         }, {
             // Опции.
             // Необходимо указать данный тип макета.
@@ -1075,15 +1075,15 @@ function init() {
         .add(new ymaps.Placemark([60.25052188324658,30.51089418634013], {
         // Номер клиента в таблице: 172 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_d100d_110" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_d100d_110" target="_blank">Фахверковый дом Chalet 110 м² <br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Фахверковая надстройка в стиле шале</span>',
         // Зададим содержимое основной части балуна.
-        balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 107 м² в Санкт-Петербурге"> <br/> ' +           
+        balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 110 м² в Санкт-Петербурге"> <br/> ' +           
         '<b><a href = "#popup:stepform_d100d_110" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
-        hintContent: 'Chalet 107 м²'
+        hintContent: 'Chalet 110 м²'
         }, {
             // Опции.
             // Необходимо указать данный тип макета.
@@ -1103,15 +1103,15 @@ function init() {
         .add(new ymaps.Placemark([56.180859648069145,37.73412308030851], {
         // Номер клиента в таблице: 116 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_d100d_110" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_d100d_110" target="_blank">Фахверковый дом Chalet 110 м² <br/> в Москве</a><br>' +
         '<span class="description">Фахверковая надстройка в стиле шале</span>',
         // Зададим содержимое основной части балуна.
-        balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 107 м² в Москве"> <br/> ' +           
+        balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 110 м² в Москве"> <br/> ' +           
         '<b><a href = "#popup:stepform_d100d_110" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
-        hintContent: 'Chalet 107 м²'
+        hintContent: 'Chalet 110 м²'
         }, {
             // Опции.
             // Необходимо указать данный тип макета.
@@ -1467,15 +1467,15 @@ function init() {
         .add(new ymaps.Placemark([55.97891482658088,37.992519128906245], {
         // Номер клиента в таблице: 300 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_d100d_110" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Москве</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_d100d_110" target="_blank">Фахверковый дом Chalet 110 м² <br/> в Москве</a><br>' +
         '<span class="description">Фахверковая надстройка в стиле шале</span>',
         // Зададим содержимое основной части балуна.
-        balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 107 м² в Москве"> <br/> ' +           
+        balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 110 м² в Москве"> <br/> ' +           
         '<b><a href = "#popup:stepform_d100d_110" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
-        hintContent: 'Chalet 107 м²'
+        hintContent: 'Chalet 110 м²'
         }, {
             // Опции.
             // Необходимо указать данный тип макета.
@@ -7179,15 +7179,15 @@ function init() {
         .add(new ymaps.Placemark([60.11743161241865,30.2829268437499], {
         // Номер клиента в таблице: 226 Нет фото
         // Зададим содержимое заголовка балуна.
-        balloonContentHeader: '<a href = "#popup:stepform_d100d_110" target="_blank">Фахверковый дом Chalet 107 м² <br/> в Санкт-Петербурге</a><br>' +
+        balloonContentHeader: '<a href = "#popup:stepform_d100d_110" target="_blank">Фахверковый дом Chalet 110 м² <br/> в Санкт-Петербурге</a><br>' +
         '<span class="description">Фахверковая надстройка в стиле шале</span>',
         // Зададим содержимое основной части балуна.
-        balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 107 м² в Санкт-Петербурге"> <br/> ' +           
+        balloonContentBody: //'<img src="" height="150" width="300" title="домогацкий отзывы экокомплект фахверк" alt="Фахверковый дом Chalet 110 м² в Санкт-Петербурге"> <br/> ' +           
         '<b><a href = "#popup:stepform_d100d_110" target="_blank" style="font-size: 14px">➥ <u>Рассчитать стоимость строительства</u></a></b>',
         // Зададим содержимое нижней части балуна.
         balloonContentFooter: '',
         // Зададим содержимое всплывающей подсказки.
-        hintContent: 'Chalet 107 м²'
+        hintContent: 'Chalet 110 м²'
         }, {
             // Опции.
             // Необходимо указать данный тип макета.
